@@ -1,6 +1,6 @@
 # spanish_audio_num
 
-A new Flutter project.
+A new Flutter project using https://pub.dev/packages/audioplayers
 
 ## Getting Started
 
